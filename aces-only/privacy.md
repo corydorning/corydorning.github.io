@@ -25,8 +25,8 @@ Center is run by Apple under Apple's privacy policy: https://www.apple.com/legal
 ## Advertising (Google AdMob)
 
 The free version of the game shows ads from Google AdMob: a short ad before using a mulligan, and one after every six holes.
-To show and measure ads, Google may collect information such as your device's advertising identifier, IP address, device
-type, operating system, and how you interact with ads.
+To show and measure ads, Google may collect information such as your device's advertising identifier, IP address and the
+approximate location it gives, device type, operating system, crash and performance data, and how you interact with ads.
 
 - **Tracking:** iOS asks whether the game may track you. If you allow it, Google may use your device's advertising
   identifier to show more relevant ads. If you don't, you still see ads, just less personalized ones. You can change this
