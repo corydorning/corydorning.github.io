@@ -1,7 +1,7 @@
 ---
 title: Aces Only Golf
 share_site: Aces Only Golf
-share_title: "Aces Only Golf: Daily Hole-in-One Challenge"
+share_title: "Aces Only Golf: Par 3 Hole-in-One Challenge"
 description: "Golf where only aces count. Every hole is a par 3, and only a hole in one finishes it. Three painted courses, a new Daily hole every day, and Pro mode. Free on iPhone."
 share_url: https://corydorning.github.io/aces-only/
 share_image: https://corydorning.github.io/aces-only/share-banner.png
